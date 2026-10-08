@@ -13,3 +13,5 @@ P4: ¿Qué responde Express para /no-existe? Un 404 Not Found en HTML que dice C
 Reflexión M2: ¿Qué resolvió Express? Simplificó las rutas con app.get, automatizó el JSON con res.json() y maneja el 404 por defecto.
 
 P5: ¿Qué pasa si comentas next()? El navegador se queda cargando sin responder y en la terminal solo se imprime el log.
+
+
